@@ -1,2 +1,2 @@
 # salesforceUpsert
-salesforce Upsert (insert or Update)
+salesforce Upsert - insert or Update records from particular DB to salesforce.
